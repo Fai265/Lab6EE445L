@@ -1,0 +1,17 @@
+Forward Design Changes Report
+-----------------------------
+
+Report File:        C:\Keil\EE445L\Lab6EE445L\Lab6_Cooper_Faisal (PCB - Forward Design Changes Report).txt
+Report Written:     Thursday, October 12, 2017
+Design Path:        C:\Keil\EE445L\Lab6EE445L\Lab6_Cooper_Faisal.pcb
+Design Title:       
+Created:            1/29/2013 12:01:41 AM
+Last Saved:         10/12/2017 1:11:11 PM
+Editing Time:       1119 min
+Units:              mil (precision 0)
+
+Net "N0679" changed from net class "Power" to net class "Signal".
+Net "N0680" changed from net class "Power" to net class "Signal".
+
+
+End Of Report.

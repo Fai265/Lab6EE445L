@@ -1,0 +1,203 @@
+Design Rule Check Report
+------------------------
+
+Report File:        C:\Keil\EE445L\Lab6EE445L\Lab6_Cooper_Faisal (PCB - Design Rule Check Report).txt
+Report Written:     Thursday, October 12, 2017
+Design Path:        C:\Keil\EE445L\Lab6EE445L\Lab6_Cooper_Faisal.pcb
+Design Title:       
+Created:            1/29/2013 12:01:41 AM
+Last Saved:         10/12/2017 1:11:11 PM
+Editing Time:       1121 min
+Units:              mil (precision 0)
+
+
+Results
+=======
+
+Pad to Pad error (P-P) at (11734 9714) on layer "[All]".
+    Error between Component Pad U3.15 and Component Pad R4.2 (Net 'N0676'), Gap is 0 needs to be 7.
+Pad to Pad error (P-P) at (11754 9710) on layer "[All]".
+    Error between Component Pad U3.16 and Component Pad R4.2 (Net 'N0676'), Gap is 0 needs to be 7.
+Pad to Pad error (P-P) at (11377 10079) on layer "[All]".
+    Error between Component Pad U3.49 and Component Pad R5.1 (Net 'N0687'), Gap is 0 needs to be 7.
+Pad to Pad error (P-P) at (11372 10059) on layer "[All]".
+    Error between Component Pad U3.50 and Component Pad R5.1 (Net 'N0687'), Gap is 0 needs to be 7.
+Pad to Pad error (P-P) at (11384 10039) on layer "[All]".
+    Error between Component Pad U3.51 and Component Pad R5.1 (Net 'N0687'), Gap is 0 needs to be 7.
+Pad to Pad Error (P-P) between (11389 10032) and (11391 10036) on Layer "[All]".
+    Error between Component Pad U3.52 and Component Pad R5.1 (Net 'N0687'), Gap is 4 needs to be 7.
+Pad to Pad error (P-P) at (11382 9921) on layer "[All]".
+    Error between Component Pad U3.57 and Component Pad R6.1 (Net 'N0678'), Gap is 0 needs to be 7.
+Pad to Pad error (P-P) at (11372 9902) on layer "[All]".
+    Error between Component Pad U3.58 and Component Pad R6.1 (Net 'N0678'), Gap is 0 needs to be 7.
+Pad to Pad error (P-P) at (11379 9882) on layer "[All]".
+    Error between Component Pad U3.59 and Component Pad R6.1 (Net 'N0678'), Gap is 0 needs to be 7.
+Pad to Pad error (P-P) at (11389 9874) on layer "[All]".
+    Error between Component Pad U3.60 and Component Pad R6.1 (Net 'N0678'), Gap is 0 needs to be 7.
+Track to Pad Error (T-P) between (11778 10063) and (11788 10063) on Layer "Top Copper".
+    Error between Component Pad R5.2 (Net 'N0685') and Track (Net 'N0679'), Gap is 6 needs to be 7.
+Gap in Net "+3.3" between (10688,10550) and (10863,10675) 
+    +3.3.
+Gap in Net "+3.3" between (10863,10675) and (10725,10850) 
+    +3.3.
+Gap in Net "+3.3" between (10725,10850) and (10625,10850) 
+    +3.3.
+Gap in Net "+3.3" between (10663,10000) and (11038,10225) 
+    +3.3.
+Gap in Net "+3.3" between (9950,10425) and (9825,10900) 
+    +3.3.
+Gap in Net "+3.3" between (10663,10000) and (11038,9425) 
+    +3.3.
+Gap in Net "+3.3" between (9513,9900) and (8775,9900) 
+    +3.3.
+Gap in Net "+3.3" between (9825,10900) and (8963,10913) 
+    +3.3.
+Gap in Net "+5V" between (8275,8950) and (8575,8950) 
+    +5V.
+Gap in Net "+5V" between (8575,8950) and (8675,8950) 
+    +5V.
+Gap in Net "+5V" between (8250,9488) and (8763,10913) 
+    +5V.
+Gap in Net "GND" between (10285,10675) and (10125,10675) 
+    GND.
+Gap in Net "GND" between (10125,10675) and (9950,10525) 
+    GND.
+Gap in Net "GND" between (9950,10525) and (10217,10159) 
+    GND.
+Gap in Net "GND" between (10079,9691) and (10100,9375) 
+    GND.
+Gap in Net "GND" between (10100,9375) and (9963,9375) 
+    GND.
+Gap in Net "GND" between (10100,9375) and (10350,9375) 
+    GND.
+Gap in Net "GND" between (10422,9974) and (10763,10000) 
+    GND.
+Gap in Net "GND" between (10763,10000) and (10763,9863) 
+    GND.
+Gap in Net "GND" between (10763,9863) and (10763,9725) 
+    GND.
+Gap in Net "GND" between (10763,10000) and (11038,10325) 
+    GND.
+Gap in Net "GND" between (11038,10325) and (11063,10675) 
+    GND.
+Gap in Net "GND" between (9953,9955) and (9413,9900) 
+    GND.
+Gap in Net "GND" between (9413,9900) and (9413,9738) 
+    GND.
+Gap in Net "GND" between (9413,9738) and (9375,9588) 
+    GND.
+Gap in Net "GND" between (9413,9900) and (9413,10063) 
+    GND.
+Gap in Net "GND" between (9950,10525) and (9388,10788) 
+    GND.
+Gap in Net "GND" between (9388,10788) and (9128,10788) 
+    GND.
+Gap in Net "GND" between (9128,10788) and (8863,10913) 
+    GND.
+Gap in Net "GND" between (9375,9588) and (8671,9651) 
+    GND.
+Gap in Net "GND" between (8671,9651) and (8250,9688) 
+    GND.
+Gap in Net "GND" between (8250,9688) and (8250,10000) 
+    GND.
+Gap in Net "GND" between (8250,10000) and (8588,10100) 
+    GND.
+Gap in Net "GND" between (8588,10100) and (8688,10100) 
+    GND.
+Single pin net N0673 on SW3.1 at 11650,9600
+Gap in Net "N0674" between (11531,9703) and (11807,9340) 
+    N0674.
+Single pin net N0675 on R4.1 at 11400,9738
+Gap in Net "N0676" between (11807,9600) and (11750,9738) 
+    N0676.
+Single pin net N0677 on SW5.1 at 11638,10288
+Single pin net N0678 on R6.1 at 11400,9900
+Gap in Net "N0681" between (12888,10038) and (13013,9525) 
+    N0681.
+Gap in Net "N0682" between (12788,10038) and (12763,9525) 
+    N0682.
+Gap in Net "N0682" between (12788,10038) and (12200,10165) 
+    N0682.
+Single pin net N0683 on Q1.1 at 12100,10165
+Gap in Net "N0685" between (11750,10063) and (12150,10228) 
+    N0685.
+Gap in Net "N0687" between (10099,10159) and (11400,10063) 
+    N0687.
+Gap in Net "PA0" between (10422,9777) and (11038,9925) 
+    PA0.
+Gap in Net "PA2" between (10422,9817) and (11038,9625) 
+    PA2.
+Gap in Net "PA3" between (10422,9836) and (11038,9825) 
+    PA3.
+Gap in Net "PA4" between (10422,9856) and (11038,9525) 
+    PA4.
+Gap in Net "PA5" between (10422,9876) and (11038,9725) 
+    PA5.
+Gap in Net "PA6" between (10422,9895) and (11038,10025) 
+    PA6.
+Gap in Net "PA7" between (10422,9915) and (11038,10125) 
+    PA7.
+Gap in Net "PC0" between (9413,10163) and (9953,10014) 
+    PC0.
+Gap in Net "PC1" between (9413,10263) and (9953,10033) 
+    PC1.
+Gap in Net "PC2" between (9413,10363) and (9953,10053) 
+    PC2.
+Gap in Net "PC3" between (9413,10463) and (9953,10073) 
+    PC3.
+Gap in Net "PowerLED" between (8525,9900) and (8250,9900) 
+    PowerLED.
+Gap in Net "RST" between (9575,10900) and (9388,10945) 
+    RST.
+Gap in Net "RST" between (9388,10945) and (9128,10945) 
+    RST.
+Gap in Net "RST" between (9575,10900) and (10237,10159) 
+    RST.
+Gap in Net "Wake" between (10688,10300) and (10422,10073) 
+    Wake.
+Text will appear mirrored
+
+Number of errors found : 74
+
+
+Settings
+========
+
+
+Spacings
+
+=========
+
+Tracks        Yes
+Pads and Vias Yes
+Shapes        Yes
+Text          Yes
+Board         Yes
+Drills        Yes
+Components    No
+
+
+Manufacturing
+
+==============
+
+Min Drill Hole Size  Yes
+Min Track Width      Yes
+Min Annular Ring     Yes
+Copper Text In Board Yes
+Mirrored Text        Yes
+Routing Areas        Yes
+Drill Breakout       Yes
+
+
+Nets
+
+=====
+
+Net Completion               Yes
+Dangling Tracks              Yes
+Net Track Length Differences No
+
+
+
+End Of Report.

@@ -1,0 +1,20 @@
+Design Consistency Status Report
+--------------------------------
+
+Report File:        C:\Keil\EE445L\Lab6EE445L\Lab6_Cooper_Faisal (PCB - Design Consistency Status Report).txt
+Report Written:     Thursday, October 12, 2017
+Design Path:        C:\Keil\EE445L\Lab6EE445L\Lab6_Cooper_Faisal.pcb
+Design Title:       
+Created:            1/29/2013 12:01:41 AM
+Last Saved:         10/12/2017 1:11:11 PM
+Editing Time:       1120 min
+Units:              mil (precision 0)
+
+
+Checking integrity of Schematic "C:\Keil\EE445L\Lab6EE445L\Lab6_Cooper_Faisal.sch" with PCB "C:\Keil\EE445L\Lab6EE445L\Lab6_Cooper_Faisal.pcb"
+==============================================================================================================================================
+
+The designs are the same.
+
+
+End Of Report.
