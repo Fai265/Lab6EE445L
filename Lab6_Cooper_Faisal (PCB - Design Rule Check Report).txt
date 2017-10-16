@@ -1,21 +1,35 @@
 Design Rule Check Report
 ------------------------
 
-Report File:        C:\Keil\EE445L\Lab6EE445L\Lab6_Cooper_Faisal (PCB - Design Rule Check Report).txt
-Report Written:     Sunday, October 15, 2017
-Design Path:        C:\Keil\EE445L\Lab6EE445L\Lab6_Cooper_Faisal.pcb
+Report File:        E:\Users\Cooper HDD\Documents\EE 360\Assignment 1\Lab6EE445L\Lab6_Cooper_Faisal (PCB - Design Rule Check Report).txt
+Report Written:     Monday, October 16, 2017
+Design Path:        E:\Users\Cooper HDD\Documents\EE 360\Assignment 1\Lab6EE445L\Lab6_Cooper_Faisal.pcb
 Design Title:       
 Created:            1/29/2013 12:01:41 AM
-Last Saved:         10/15/2017 10:00:23 PM
-Editing Time:       1434 min
+Last Saved:         10/16/2017 12:33:15 AM
+Editing Time:       1452 min
 Units:              mil (precision 0)
 
 
 Results
 =======
 
+Pad to Via error (P-V) at (11338 9797) on layer "[Bottom]".
+    Error between Component Pad SW3.2 and Via (Net 'N0691'), Gap is 0 needs to be 7.
+Pad to Via error (P-V) at (11338 10210) on layer "[Bottom]".
+    Error between Component Pad SW5.2 and Via (Net 'N0690'), Gap is 0 needs to be 7.
+Gap in Net "+3.3" between (10350,9475) and (11038,9425) 
+    +3.3.
+Gap in Net "N0687" between (10100,10100) and (9788,9025) 
+    N0687.
+Gap in Net "N0697" between (10088,9025) and (10138,10159) 
+    N0697.
+Gap in Net "N0698" between (9988,9025) and (9838,9213) 
+    N0698.
+Gap in Net "PA5" between (10422,9876) and (9888,9025) 
+    PA5.
 
-No errors found
+Number of errors found : 7
 
 
 Settings
