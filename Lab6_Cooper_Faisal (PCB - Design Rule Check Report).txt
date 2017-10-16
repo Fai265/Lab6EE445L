@@ -6,38 +6,16 @@ Report Written:     Sunday, October 15, 2017
 Design Path:        C:\Keil\EE445L\Lab6EE445L\Lab6_Cooper_Faisal.pcb
 Design Title:       
 Created:            1/29/2013 12:01:41 AM
-Last Saved:         10/15/2017 9:04:11 PM
-Editing Time:       1382 min
+Last Saved:         10/15/2017 9:55:17 PM
+Editing Time:       1433 min
 Units:              mil (precision 0)
 
 
 Results
 =======
 
-Gap in Net "+3.3" between (10663,10000) and (11038,10225) 
-    +3.3.
-Gap in Net "GND" between (10422,9974) and (10763,10000) 
-    GND.
-Gap in Net "GND" between (10763,10000) and (10763,9863) 
-    GND.
-Gap in Net "GND" between (10763,9863) and (10763,9725) 
-    GND.
-Gap in Net "GND" between (10763,10000) and (11038,10325) 
-    GND.
-Gap in Net "PA2" between (10422,9817) and (11038,9625) 
-    PA2.
-Gap in Net "PA3" between (10422,9836) and (11038,9825) 
-    PA3.
-Gap in Net "PA4" between (10422,9856) and (11038,9525) 
-    PA4.
-Gap in Net "PA5" between (10422,9876) and (11038,9725) 
-    PA5.
-Gap in Net "PA6" between (10422,9895) and (11038,10025) 
-    PA6.
-Gap in Net "PA7" between (10422,9915) and (11038,10125) 
-    PA7.
 
-Number of errors found : 11
+No errors found
 
 
 Settings

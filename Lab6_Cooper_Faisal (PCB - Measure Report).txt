@@ -1,0 +1,56 @@
+Measure Report
+--------------
+
+Report File:        C:\Keil\EE445L\Lab6EE445L\Lab6_Cooper_Faisal (PCB - Measure Report).txt
+Report Written:     Sunday, October 15, 2017
+Design Path:        C:\Keil\EE445L\Lab6EE445L\Lab6_Cooper_Faisal.pcb
+Design Title:       
+Created:            1/29/2013 12:01:41 AM
+Last Saved:         10/15/2017 9:12:17 PM
+Editing Time:       1394 min
+Units:              mil (precision 0)
+
+    Units: mil
+    &Layer: [Different]
+
+
+From:  Board Segment
+====================
+
+Width:  8
+Length: 4488
+Angle:  180.0
+
+To:  Board Segment
+==================
+
+Width:  8
+Length: 4488
+Angle:  0.0
+
+Distance
+========
+
+  Distance: 2250
+         X: 0
+         Y: -2250
+     Angle:  270.0
+
+Shortest
+========
+
+  Distance: 2250
+         X: 0
+         Y: -2250
+     Angle:  270.0
+
+Gap
+===
+
+  Distance: 2250
+         X: 0
+         Y: -2250
+     Angle:  270.0
+
+
+End Of Report.
